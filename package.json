@@ -11,6 +11,5 @@
     "test": "node test.js"
   }
   
-  ],
   "license": "MIT"
 }
